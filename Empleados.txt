@@ -1,0 +1,3 @@
+1,heiner,alias,prueba,prueba123@gmail.com,3050392,software,3213.0,Nombre
+2,kevin,prueba,proyecto,prueba@gmail.com,395930,contabilidad,435322.0,sanjose
+3,oscar,nomina,prueba,santacruz@gmail.com,43321,ingles,4323.0,santa cruz

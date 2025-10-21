@@ -1,0 +1,25 @@
+
+/build/
+/dist/
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/test/
+/Librerias/
+
+*.class
+*.log
+*.tmp
+*.bak
+*.swp
+*.jar
+*.war
+*.ear
+
+# === Archivos del sistema operativo ===
+.DS_Store
+Thumbs.db
+
+config.txt
+*.pdf
+
